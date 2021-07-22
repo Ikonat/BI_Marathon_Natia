@@ -40,4 +40,4 @@ Project attributes (dimensions and facts)
 
 What metrics are you planning to analyze.
 
-What **products** do sell the most popular **shop** based on a **good review** and what is their location, **most comments** and **total rating**. What are the top 5 **most popular products** the **least and the most expensive products**  and **identify which shop**  is used to buy them. Which **shop has popular** item and still **lowest sales** -identify reason is it **review or price**?
+What **products** do sell the most popular **shop** based on a **good review**, **most comments** and **total rating** and what is their location. What are the top 5 **most popular products** the **least and the most expensive products**  and **identify which shop**  is used to buy them. Which **shop has popular** item and still **lowest sales** -identify reason is it **review or price**?

@@ -1,0 +1,16 @@
+Grain 
+daily prices of houses in Ireland for 2020
+
+
+*Dim*
+ 1) Date (date)
+ 2) Property (property_name,not_full_market_price,vat_exclusive)
+ 3) Address (street, postal_code, county)
+
+*Fact*
+Price
+FK_1_Date 
+FK_2_Property
+FK_3_Address 
+
+

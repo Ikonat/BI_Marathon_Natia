@@ -1,6 +1,6 @@
 # BI_Marathon_Natia
 
-Project mission and goal is to track a fast growing Korean isnpired fashion products e-retailing in Philippines and identify trends based on one month dataset, this will help enterprenuers to understand market demand and competitors. 
+Project mission and goal is to track a fast growing Korean isnpired fashion products e-retailing in Philippines and identify daily traffic at the most populr onine shop websites, this will help enterprenuers to understand market demand and competitors. 
 
 Project attributes (dimensions and facts)
 
@@ -39,5 +39,8 @@ Project attributes (dimensions and facts)
  
 
 What metrics are you planning to analyze.
-
-What **products** do sell the most popular **shop** based on a **good review**, **most comments** and **total rating** and what is their location. What are the top 5 **most popular products** the **least and the most expensive products**  and **identify which shop**  is used to buy them. Which **shop has popular** item and still **lowest sales** -identify reason is it **review or price**?
+top 5 best rated shop and their location
+top 5 most commented product and seller
+top 5 most liked product and seller 
+top 3 mosts popular prodact sold daily 
+min and max price product sold daily 

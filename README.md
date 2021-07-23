@@ -4,38 +4,20 @@ Project mission and goal is to track a fast growing Korean isnpired fashion prod
 
 Project attributes (dimensions and facts)
 
-**Dimentions**
- product_price	
- product_price_min	
- product_price_max
- product_like_count	
- product_comment_count	
- product_views	
- stock	
- units_sold	
- product_total_rating	
- item_count	
- rating_star
- 
- 
-**Facts**
- date_collected	
- product_itemid	
- product_shopid	
- product_category	
- product_name	
- product_discount	
- product_brand	
- shop_location	
- pk_shop	
- date_collected	
- shopid	
- shop_name	
- join_month	
- join_day
- join_year	
- response_rate	
- shop_location	
+Business value: Online fashion e-retailing in Phillipines 
+Grain: Monthly sales of Korean fashion in Phillipines 
+
+
+*Dim*
+date (date_collected)
+shop (shopid, shop_location)
+product(product_itemid,product_name,product_brand)
+
+*Facts*
+price (product_price, product_price_min,product_price_max,product_discount)
+rating (product_like_count,product_comment_count,product_views,
+        product_total_rating, 
+sales (stock, units_sold)
  
 
 What metrics are you planning to analyze.
